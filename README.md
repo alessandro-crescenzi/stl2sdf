@@ -1,8 +1,8 @@
 # stl2sdf
 
-Converter of meshes from STL/OBJ to SDF format.
+Converter of meshes from STL to SDF format.
 
-Takes as input a mesh file (STL/OBJ) and generates the corresponding corresponding .SDF file for importing the model into Gazebo.  
+Takes as input a mesh file (STL) and generates the corresponding .SDF file for importing the model into Gazebo.  
 It uses the [TriMesh](https://github.com/mikedh/trimesh) library.  
 It also allows to resize a mesh.
 
